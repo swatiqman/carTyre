@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "car-tyre",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
