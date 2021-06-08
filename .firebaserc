@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "cartyre-74472": {
+      "hosting": {
+        "app": [
+          "cartyre-74472"
+        ]
+      }
+    }
+  }
+}
